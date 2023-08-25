@@ -1,4 +1,4 @@
-# Email Spam Classification using NLP
+## Email Spam Classification using NLP
 This project involves classifying emails as spam or ham (legitimate) using Natural Language Processing (NLP) techniques. The process can be summarized as follows:
 
 ## Data Loading and Preprocessing:
