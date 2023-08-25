@@ -1,19 +1,19 @@
-## Email Spam Classification using NLP
+# Email Spam Classification using NLP
 This project involves classifying emails as spam or ham (legitimate) using Natural Language Processing (NLP) techniques. The process can be summarized as follows:
 
-# Data Loading and Preprocessing:
+## Data Loading and Preprocessing:
 *Loaded an email dataset containing text and spam/ham labels.
 *Preprocessed the text data by tokenizing, converting to lowercase, and removing stopwords and punctuation.
 
-# Feature Extraction:
+## Feature Extraction:
 *Utilized the CountVectorizer from scikit-learn to convert preprocessed text into numerical features.
 *Transformed both training and testing data using the fitted vectorizer.
 
-# Model Training and Evaluation:
+## Model Training and Evaluation:
 *Employed the Multinomial Naive Bayes classifier to train the model on the vectorized training data.
 *Evaluated the model's accuracy and generated a classification report for performance assessment.
 
-# Non-Zero Word Frequencies:
+## Non-Zero Word Frequencies:
 *Displayed non-zero indices and corresponding word frequencies for a sample using the vectorized representation.
 *Gained insights into the distribution of word frequencies in the vectorized data.
 
