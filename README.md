@@ -3,6 +3,7 @@ This project involves classifying emails as spam or ham (legitimate) using Natur
 
 ### Data Loading and Preprocessing:
 *Loaded an email dataset containing text and spam/ham labels.
+(dataset link): https://www.kaggle.com/datasets/williambruno/email-classifier-dataset
 *Preprocessed the text data by tokenizing, converting to lowercase, and removing stopwords and punctuation.
 
 ### Feature Extraction:
